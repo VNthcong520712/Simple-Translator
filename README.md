@@ -138,8 +138,3 @@ You can add a LICENSE file to the repository with the full license text.
 
 ## Authors
 - VNthcong520712 — https://github.com/VNthcong520712
-
-If you'd like, I can:
-- Commit this README to your repository,
-- Customize the usage and examples to match actual filenames and functions in your code,
-- Add badges (CI, PyPI) once you provide details.
